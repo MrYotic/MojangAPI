@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MojangAPI", "MojangAPI\MojangAPI.csproj", "{776D763A-3A48-4A1D-9D24-5BD6730D67CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{BBA09464-D4D9-43FC-84C2-DAE37F4A7E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776D763A-3A48-4A1D-9D24-5BD6730D67CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D763A-3A48-4A1D-9D24-5BD6730D67CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D763A-3A48-4A1D-9D24-5BD6730D67CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D763A-3A48-4A1D-9D24-5BD6730D67CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA09464-D4D9-43FC-84C2-DAE37F4A7E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA09464-D4D9-43FC-84C2-DAE37F4A7E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA09464-D4D9-43FC-84C2-DAE37F4A7E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA09464-D4D9-43FC-84C2-DAE37F4A7E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7267BC-661A-48B6-BEB6-BDFD27EFFB14}
+	EndGlobalSection
+EndGlobal
